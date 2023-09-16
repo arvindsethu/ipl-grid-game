@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.3781d891.css",
-    "main.js": "/static/js/main.3c0647fe.js",
-    "static/js/787.025110ab.chunk.js": "/static/js/787.025110ab.chunk.js",
-    "index.html": "/index.html",
-    "main.3781d891.css.map": "/static/css/main.3781d891.css.map",
-    "main.3c0647fe.js.map": "/static/js/main.3c0647fe.js.map",
-    "787.025110ab.chunk.js.map": "/static/js/787.025110ab.chunk.js.map"
+    "main.css": "/ipl-grid-game/static/css/main.3781d891.css",
+    "main.js": "/ipl-grid-game/static/js/main.7676e9b1.js",
+    "static/js/787.025110ab.chunk.js": "/ipl-grid-game/static/js/787.025110ab.chunk.js",
+    "index.html": "/ipl-grid-game/index.html",
+    "main.3781d891.css.map": "/ipl-grid-game/static/css/main.3781d891.css.map",
+    "main.7676e9b1.js.map": "/ipl-grid-game/static/js/main.7676e9b1.js.map",
+    "787.025110ab.chunk.js.map": "/ipl-grid-game/static/js/787.025110ab.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3781d891.css",
-    "static/js/main.3c0647fe.js"
+    "static/js/main.7676e9b1.js"
   ]
 }
